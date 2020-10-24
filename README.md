@@ -51,3 +51,5 @@ Performed the foloowing analysis:
 ![Histogram](EmployeeSQL/Images/historgram.png)
 
 3. Create a bar chart of average salary by title.   
+
+![BarChart](EmployeeSQL/Images/barchart.png)
